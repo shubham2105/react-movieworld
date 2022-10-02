@@ -5,7 +5,7 @@ import { useEffect} from 'react';
 import MovieCard from './MovieCard';
 
 import searchIcon from './search.svg';
-const API_URL =  'http://www.omdbapi.com/?i=tt3896198&apikey=d9f6aaff';
+const API_URL =  'https://www.omdbapi.com/?i=tt3896198&apikey=d9f6aaff';
 
 const movie1 = {
     "Title": "The Amazing Spiderman T4 Premiere Special",
